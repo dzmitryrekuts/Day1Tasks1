@@ -1,0 +1,8 @@
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\ConsoleAppRootFinding\bin\Debug\ConsoleAppRootFinding.exe.config
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\ConsoleAppRootFinding\bin\Debug\ConsoleAppRootFinding.exe
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\ConsoleAppRootFinding\bin\Debug\ConsoleAppRootFinding.pdb
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\ConsoleAppRootFinding\bin\Debug\NewtonMethodLogik.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\ConsoleAppRootFinding\bin\Debug\NewtonMethodLogik.pdb
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\ConsoleAppRootFinding\obj\Debug\ConsoleAppRootFinding.csprojResolveAssemblyReference.cache
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\ConsoleAppRootFinding\obj\Debug\ConsoleAppRootFinding.exe
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\ConsoleAppRootFinding\obj\Debug\ConsoleAppRootFinding.pdb

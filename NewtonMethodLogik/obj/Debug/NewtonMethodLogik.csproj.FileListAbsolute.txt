@@ -1,0 +1,5 @@
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik\bin\Debug\NewtonMethodLogik.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik\bin\Debug\NewtonMethodLogik.pdb
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik\obj\Debug\NewtonMethodLogik.csprojResolveAssemblyReference.cache
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik\obj\Debug\NewtonMethodLogik.dll
+c:\users\dzmitry_rekuts\documents\visual studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik\obj\Debug\NewtonMethodLogik.pdb
