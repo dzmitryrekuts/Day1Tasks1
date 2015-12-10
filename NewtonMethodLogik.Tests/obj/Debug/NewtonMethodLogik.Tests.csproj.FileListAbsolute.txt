@@ -1,0 +1,13 @@
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\NewtonMethodLogik.Tests.dll
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\NewtonMethodLogik.Tests.pdb
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\nunit.core.dll
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\nunit.util.dll
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\obj\Debug\NewtonMethodLogik.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\obj\Debug\NewtonMethodLogik.Tests.dll
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\obj\Debug\NewtonMethodLogik.Tests.pdb
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\NewtonMethodLogik.dll
+C:\Users\Dzmitry_Rekuts\Documents\Visual Studio 2015\Projects\Day1TaskSolutionNewton\NewtonMethodLogik.Tests\bin\Debug\NewtonMethodLogik.pdb
