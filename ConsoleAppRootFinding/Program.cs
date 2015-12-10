@@ -13,20 +13,18 @@ namespace ConsoleAppRootFinding
         {
             double number;
             double precision;
-            double power;
-
+            int power;
 
             Console.WriteLine("Enter your number");
             Double.TryParse(Console.ReadLine(), out number);
             Console.WriteLine("Enter the desired power");
-            Double.TryParse(Console.ReadLine(), out power);
-            double reversPower = 1 / power;
+            Int32.TryParse(Console.ReadLine(), out power);
             Console.WriteLine("Enter the required precision");
             Double.TryParse(Console.ReadLine(), out precision);
 
-            double xNewton = RootFinding.NewtonMetode(number, precision, power);
-            Console.WriteLine("NewtonMetod Result : x = " + xNewton + "()");
-            double xPow = Math.Pow(number, reversPower);
+            double xNewton = RootFinding.NewtonMetode(number, power, precision);
+            Console.WriteLine("NewtonMetod Result : x = " + xNewton);
+            double xPow = Math.Pow(number, 1.0 / power);
             Console.WriteLine("Math.Root Result : x = " + xPow);
 
 
@@ -34,7 +32,6 @@ namespace ConsoleAppRootFinding
             {
                 Console.WriteLine(xNewton + " = " + xPow);
             }
-
             Console.ReadLine();
         }
     }

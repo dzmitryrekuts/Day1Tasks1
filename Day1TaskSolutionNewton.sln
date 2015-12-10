@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonMethodLogik", "Newton
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppRootFinding", "ConsoleAppRootFinding\ConsoleAppRootFinding.csproj", "{31518853-3C56-45B4-96B4-758E73651783}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonMethodLogik.Tests", "NewtonMethodLogik.Tests\NewtonMethodLogik.Tests.csproj", "{05B50E87-EACD-4D07-A6C6-5F0DD5AB3A52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{31518853-3C56-45B4-96B4-758E73651783}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31518853-3C56-45B4-96B4-758E73651783}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31518853-3C56-45B4-96B4-758E73651783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B50E87-EACD-4D07-A6C6-5F0DD5AB3A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B50E87-EACD-4D07-A6C6-5F0DD5AB3A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B50E87-EACD-4D07-A6C6-5F0DD5AB3A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B50E87-EACD-4D07-A6C6-5F0DD5AB3A52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
